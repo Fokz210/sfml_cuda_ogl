@@ -84,6 +84,7 @@
   <ItemGroup>
     <ClInclude Include="cuda_check.h" />
     <ClInclude Include="color.h" />
+    <ClInclude Include="Header.h" />
     <ClInclude Include="sfml_context.h" />
     <ClInclude Include="smart_buffer.h" />
   </ItemGroup>
